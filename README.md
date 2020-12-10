@@ -4,6 +4,8 @@
 
 ---
 <h3><b>🐱‍👤 Web Development Skills ::</b></h3>✔ MERN Stack : MongoDB, ExpressJS, React, NodeJS <br>✔HTML5,  CSS3,  Sass,  Bootstrap,  JavaScript ES6/ES8,  JQuery,  AJAX,  PHP,  MySQL;
+
+---
 <h3><b>🐱‍🐉 Core Languages ::</3></h4>✔ JavaScript, C++, Python, Java
 
 ---
