@@ -11,4 +11,4 @@
 <p> And many more . . .</p>
 
 <h3>GITHUB STATS</h3>
-<img alt="Shouvik's Github Profile" src="https://github-readme-stats.vercel.app/api?username=techieshouvik">
+<img alt="Shouvik's Github Profile" src="https://github-readme-stats.vercel.app/api?username=techieshouvik&theme=tokyonight">
