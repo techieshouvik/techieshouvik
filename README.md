@@ -11,4 +11,4 @@
 <p> And many more . . .</p>
 
 <h3>GITHUB STATS</h3>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=techieshouvik)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Shouvik's Github Profile" src="https://github-readme-stats.vercel.app/api?username=techieshouvik">
